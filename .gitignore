@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+dist/
+uploads/
+.vscode/
+# Ignore service account key inside server/
+server/dark-stratum-465506-u8-6a66584f85aa.json
+
+server/keys/key.json
+server/keys/firman.json
